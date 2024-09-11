@@ -10,6 +10,7 @@ Cursando o Técnico em Desenvolvimento de Sistemas na ETEC - módulo 2/3
 .
 
 💻 Python básico/intermediário
+
 💻 Git básico
 
 .
