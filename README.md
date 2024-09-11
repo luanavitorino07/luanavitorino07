@@ -4,19 +4,19 @@ Cursando o Técnico em Desenvolvimento de Sistemas na ETEC - módulo 2/3
 
 🎨 HTML e CSS básico/intermediário
 
+
 🧩 JavaScript básico 
 
-
+.
 
 💻 Python básico/intermediário
-
 💻 Git básico
 
-
+.
 
 💾 SQL básico
 
-
+.
 
 🇬🇧 🇪🇸 Inglês e Espanhol intermediários
   
