@@ -1,4 +1,4 @@
-## Olá! 👋
+## Olá! Eu sou a Luana 🎨
 
 Cursando o Técnico em Desenvolvimento de Sistemas na ETEC - módulo 2/3
 
@@ -20,7 +20,7 @@ Cursando o Técnico em Desenvolvimento de Sistemas na ETEC - módulo 2/3
 .
 
 🇬🇧 🇪🇸 Inglês e Espanhol intermediários
-  
+
 <!--
 **luanavitorino07/luanavitorino07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
