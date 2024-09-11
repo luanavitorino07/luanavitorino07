@@ -1,5 +1,17 @@
-## Hi there 👋
+## Olá! 👋
 
+Cursando o Técnico em Desenvolvimento de Sistemas na ETEC - módulo 2/3
+
+🎨 HTML e CSS básico/intermediário
+🧩 JavaScript básico 
+
+💻 Python básico/intermediário
+💻 Git básico
+
+💾 SQL básico
+
+🇬🇧 🇪🇸 Inglês e Espanhol intermediários
+  
 <!--
 **luanavitorino07/luanavitorino07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
