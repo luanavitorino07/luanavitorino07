@@ -1,4 +1,4 @@
-## Olá! Eu sou a Luana 🎨
+## Oi! Eu sou a Luana 🎨
 
 Cursando o Técnico em Desenvolvimento de Sistemas na ETEC - módulo 2/3
 
