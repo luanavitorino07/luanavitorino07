@@ -1,8 +1,8 @@
 ## Oi! Eu sou a Luana 🎨
 
-Cursando o Técnico em Desenvolvimento de Sistemas na ETEC - módulo 2/3
+Cursando o Técnico em Desenvolvimento de Sistemas na ETEC - módulo 3/3
 
-🎨 HTML e CSS básico/intermediário
+🎨 HTML e CSS básico
 
 
 🧩 JavaScript básico 
@@ -10,7 +10,7 @@ Cursando o Técnico em Desenvolvimento de Sistemas na ETEC - módulo 2/3
 .
 
 
-💻 Python básico/intermediário
+💻 Python básic
 
 💻 Git básico
 
