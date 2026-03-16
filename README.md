@@ -14,6 +14,7 @@ Interesse nas áreas de Ciência de Dados e Cibersegurança
 
 <h4> 🎓 Formação Acadêmica e complementar</h4>
 Técnica em Desenvolvimento de Sistemas pela ETEC Dr. Júlio Cardoso (2023-2025)
+<h6></h6>
 Pesquisadora Júnior em coleta e análise de dados aplicada às Relações Internacionais pela UNESP Franca (2024-2025)
 
 <h1></h1>
