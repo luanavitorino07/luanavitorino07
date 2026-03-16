@@ -1,7 +1,7 @@
 <h1>Oi, eu sou a Luana 👋</h1>
 
 
-<h3> 💼 Pesquisadora em Ciência de Dados aplicada a Relações Internacionais pela UNESP </h3>
+<h3> 💼 Pesquisadora em ciência de dados aplicada a Relações Internacionais pela UNESP </h3>
 <h3> 📚 Graduanda em Sistemas de Informação pela USP São Carlos </h3>
 
 <h1></h1>
