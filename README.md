@@ -1,7 +1,7 @@
 <div>
   <h1>Luana Vitorino</h1>  <br>  
       <p>
-      <img width="15" height="15" alt="graduation-cap-solid-full" src="https://github.com/user-attachments/assets/4b06f20b-cd03-4071-9aff-7e9667426091" />ㅤEstudante de Sistemas de Informação na USP São Carlos <br>­­­­­<img width="15" height="15" alt="chart-pie-solid-full" src="https://github.com/user-attachments/assets/a6c3f955-8a36-4f62-9323-4098723e6e0a" />ㅤPesquisadora em Ciência de Dados pela UNESP <br>
+      <img width="15" height="15" alt="graduation-cap-solid-full" src="https://github.com/user-attachments/assets/4b06f20b-cd03-4071-9aff-7e9667426091" />ㅤEstudante de Sistemas de Informação na USP São Carlos <br>­­­­­<img width="15" height="15" alt="chart-pie-solid-full" src="https://github.com/user-attachments/assets/a6c3f955-8a36-4f62-9323-4098723e6e0a" />ㅤPesquisadora em Ciência de Dados na UNESP <br>
       </p>  
 </div>
 <br>
@@ -20,7 +20,7 @@
 <div align="center">
   <br>
     <h3 >SOBRE MIM</h3><br>
-    <p > Sou técnica em Desenvolvimento de Sistemas pela ETEC Dr. Júlio Cardoso e estou cursando <br>Sistemas de Informação na USP São Carlos. Atualmente desenvolvo uma pesquisa de coleta <br>e análise de dados aplicadas às Relações Internacionais pela UNESP.  Tenho conhecimento <br>nível intermediário em inglês e espanhol.
+    <p > Sou técnica em Desenvolvimento de Sistemas pela ETEC Dr. Júlio Cardoso e estou cursando <br>Sistemas de Informação na USP São Carlos. Atualmente desenvolvo uma pesquisa de coleta <br>e análise de dados aplicadas às Relações Internacionais na UNESP.  Tenho conhecimento <br>nível intermediário em inglês e espanhol.
     Possuo interesse nas áreas de <br>Ciência de Dados, Engenharia de Software e Cybersegurança.<br>  
     </p> <br>
   <h1></h1>
