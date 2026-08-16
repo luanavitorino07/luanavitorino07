@@ -7,7 +7,6 @@
 <br>
 <div align="center"> 
   <img alt="São Carlos, SP" src="https://img.shields.io/badge/S%C3%83O%20CARLOS%2C%20SP-blue?style=for-the-badge">
-  <a href="mailto:luanaassuncaovitorino@gmail.com" ><img alt="Gmail" src="https://img.shields.io/badge/GMAIL-blue?style=for-the-badge"> </a>
   <a href="https://www.linkedin.com/in/luana-assuncao-vitorino/" ><img alt="Linkedin" src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge"></a>
   <a href="https://lattes.cnpq.br/7344453023281909" ><img alt="Lattes" src="https://img.shields.io/badge/LATTES-blue?style=for-the-badge"> </a>
   
