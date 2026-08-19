@@ -35,7 +35,7 @@
     <img alt="Playwright" src="https://img.shields.io/badge/playwright-blue?style=for-the-badge&logo=Playwright&logoColor=white"> <br>
     <img alt="HTML" src="https://img.shields.io/badge/html-blue?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white">
-    <img alt="REACT JS" src="https://img.shields.io/badge/reactjs-blue?style=for-the-badge&logo=react&logoColor=white">
+    <img alt="REACT NATIVE" src="https://img.shields.io/badge/react_native-blue?style=for-the-badge&logo=react&logoColor=white">
    <img alt="C" src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=c&logoColor=white">  
    <img alt="Selenium" src="https://img.shields.io/badge/selenium-blue?style=for-the-badge&logo=selenium&logoColor=white">
    <img alt="Figma" src="https://img.shields.io/badge/FIGMA-blue?style=for-the-badge&logo=figma&logoColor=white">
